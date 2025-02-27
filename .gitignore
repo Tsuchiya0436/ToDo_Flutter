@@ -1,0 +1,14 @@
+# macOS特有のファイルを無視
+.DS_Store
+
+# Flutterのビルドフォルダを無視
+build/
+.dart_tool/
+.packages
+
+# IDE設定を無視
+.idea/
+.vscode/
+
+# ログファイル
+*.log
